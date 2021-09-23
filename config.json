@@ -1,6 +1,6 @@
 {
 	"ip":"TheFreeEarth.aternos.me",
 	"port": "56240",
-	"name": "24/7Bot",
+	"name": "myBot",
 	"auto-night-skip":"false"
 }
